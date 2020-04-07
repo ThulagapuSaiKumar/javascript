@@ -1,0 +1,16 @@
+{
+  "name": "mera-node-programs",
+  "version": "1.0.0",
+  "description": "saikumar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Sai_Kumar1811@bitbucket.org/Sai_Kumar1811/saikumar1811.git"
+  },
+  "author": "saikumar",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Sai_Kumar1811/saikumar1811#readme"
+}
